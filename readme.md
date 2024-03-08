@@ -16,18 +16,18 @@ _August 2022 - Present_
 - Enhanced system security and managed the school's network infrastructure using PowerShell, C#, and bash scripting.
 - Directed the maintenance and optimization of all technology systems, ensuring high availability and security.
 
-**Developer, Vowsuite** 
+**Developer**
 
-Self-Initiated Project
+Vowsuite, Self-Initiated Project
 
 _Fall 2023 - Present_
 
 - Developing a CRM and website builder for wedding industry professionals using Next.js, Prisma, Planetscale, and Tailwind.
 - Implementing cutting-edge frameworks and libraries to deliver a highly customizable and user-friendly platform.
 
-**Web Developer, Freelance**  
+**Developer, Freelance**
 
-CathyLoerzel.com
+cathyLoerzel.com
 
 _Spring 2021 - Winter 2022_
 
