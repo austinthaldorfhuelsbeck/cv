@@ -16,14 +16,14 @@ _August 2022 - Present_
 - Enhanced system security and managed the school's network infrastructure using PowerShell, C#, and bash scripting.
 - Directed the maintenance and optimization of all technology systems, ensuring high availability and security.
 
-**Developer**
+**Developer, Self-Initiated Project**
 
-Vowsuite, Self-Initiated Project
+Vowsuite
 
 _Fall 2023 - Present_
 
-- Developing a CRM and website builder for wedding industry professionals using Next.js, Prisma, Planetscale, and Tailwind.
-- Implementing cutting-edge frameworks and libraries to deliver a highly customizable and user-friendly platform.
+- Developing a CRM and website builder customized for wedding industry professionals.
+- Implementing cutting-edge frameworks and libraries to deliver a highly customizable and user-friendly platform that can scale while maintaining stability.
 
 **Developer, Freelance**
 
