@@ -1,14 +1,14 @@
-# AUSTIN THALDORF-HUELSBECK
+# Austin Thaldorf-Huelsbeck
 
-> [GitHub @YourGitHubUsername](https://github.com/YourGitHubUsername)  
-> [LinkedIn @YourLinkedInUsername](https://linkedin.com/in/YourLinkedInUsername)  
+> [GitHub @austinthaldorfhuelsbeck :octocat:](https://github.com/austinthaldorfhuelsbeck)  
+> [LinkedIn @Austin](https://linkedin.com/in/AustinHuelsbeck)  
 
 ---
 
 ## Work Experience
 
-**Systems Administrator, The Seattle School**  
-Seattle, WA  
+**Systems Administrator**  
+The Seattle School
 _August 2022 - Present_
 
 - Enhanced system security and managed the school's network infrastructure using PowerShell, C#, and bash scripting.
@@ -29,29 +29,6 @@ _2021_
 
 ---
 
-## Education
-
-**Thinkful, Online**  
-Certificate in Software Engineering  
-_December 2020 - July 2021_
-
-- Focused on JavaScript, HTML5, CSS3, React.js, Node.js, PostgreSQL, RESTful APIs, and modern software development practices.
-
-**George Fox University**  
-Newberg, OR  
-_Bachelor of Arts in Audio Engineering, Minor in Mathematics_  
-_August 2009 - May 2013_
-
-- Completed courses in computer science with Python, supplementing a strong foundation in technical problem-solving and analytical skills.
-
----
-
-## Technical Skills
-
-| Languages         | Frameworks/Libraries                | Tools/Platforms                   |
-| ----------------- | ----------------------------------- | --------------------------------- |
-| JavaScript, TypeScript, C#, Python, Bash, PowerShell | Next.js, React, Node.js, Express, Prisma | Git, GitHub, Vercel, VS Code, Adobe Creative Cloud |
-
 ## Projects
 
 * **Vowsuite**  
@@ -62,14 +39,46 @@ _August 2009 - May 2013_
   _React, TypeScript, Node.js, PostgreSQL_  
   A blog and event calendar platform with a custom CMS, allowing the client to independently update and manage site content.
 
+## Technical Skills
+
+| Languages         | Frameworks/Libraries                | Tools/Platforms                   |
+| ----------------- | ----------------------------------- | --------------------------------- |
+| JavaScript, TypeScript, C#, Python, Bash, PowerShell | Next.js, React, Node.js, Express, Prisma | Git, GitHub, Vercel, VS Code, VMWare |
+
 ---
 
 ## Extracurriculars
 
+* **Google IT Support Professional Certificate**
+  _Fall 2022 - Winter 2023_
+  > Network protocols, cloud computing, encryption algorithms, system administration
+
 * **Self-Taught Developer**  
-  _2018 - Present_  
-  Dedicated to continuous learning and application of modern web technologies, focusing on full-stack development and system administration.
+  _Spring 2018 - Present_  
+  > Dedicated to continuous learning and application of modern web technologies, focusing on full-stack development for the web.
 
 ---
 
-Remember to replace placeholder links and usernames with your actual GitHub and LinkedIn URLs. Adjust the wording as necessary to best reflect your experiences and achievements. This structure borrows the succinct and impactful presentation style of Holt Skinner's resume while tailoring the content to your unique background and projects.
+## Education
+
+**Thinkful, Online**  
+Certificate in Software Engineering  
+_December 2020 - July 2021_
+
+- Focused on JavaScript, HTML5, CSS3, React.js, Node.js, PostgreSQL, RESTful APIs, and modern software development practices.
+
+George Fox University
+**Audio Engineering,** Bachelor of Arts
+_Minor: Mathematics_
+**Fall 2009 - Spring 2013**
+
+**Coursework:**
+
+* Introduction to Computer Science
+* Calculus 2
+* Calculus 3
+* Mathematical Probability
+* Linear Algebra
+* Introduction to Mathematical Reasoning
+
+---
