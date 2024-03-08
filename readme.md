@@ -13,8 +13,8 @@ The Seattle School
 
 _August 2022 - Present_
 
-- Enhanced system security and managed the school's network infrastructure using PowerShell, C#, and bash scripting.
-- Directed the maintenance and optimization of all technology systems, ensuring high availability and security.
+> Enhanced system security and managed the school's network infrastructure using PowerShell, C#, and bash scripting.
+> Directed the maintenance and optimization of all technology systems, ensuring high availability and security.
 
 **Developer, Self-Initiated Project**
 
@@ -22,8 +22,8 @@ Vowsuite
 
 _Fall 2023 - Present_
 
-- Developing a CRM and website builder customized for wedding industry professionals.
-- Implementing cutting-edge frameworks and libraries to deliver a highly customizable and user-friendly platform that can scale while maintaining stability.
+> Developing a CRM and website builder for the wedding industry, featuring customizable templates and an intuitive UI for easy content management by users.
+> Implementing cutting-edge frameworks and libraries to deliver a highly customizable and user-friendly platform that can scale while maintaining stability.
 
 **Developer, Freelance**
 
@@ -31,7 +31,7 @@ cathyLoerzel.com
 
 _Spring 2021 - Winter 2022_
 
-- Built a blog and event calendar landing page with custom CMS using HTML/CSS/JS, React, TypeScript, Node.js, and Postgres, enabling non-technical users to easily manage content.
+> Built a blog and event calendar landing page with custom CMS, enabling non-technical users to easily manage content.
 
 ---
 
@@ -41,13 +41,17 @@ _Spring 2021 - Winter 2022_
 
 _Next.js, Prisma, Tailwind_
 
-> A CRM and website builder for the wedding industry, featuring customizable templates and an intuitive UI for easy content management by users.
+> Dynamic server-side rendering and advanced ORM, enhanced with cutting-edge tools like Tailwind and shadcn/ui for styling and Clerk for secure authentication.
+> Comprehensive CRM platform with SMTP integration, automated lead nurturing workflows, and customizable access for team collaboration within agencies.
+> Feature-rich website builder and multimedia hosting, including customizable media galleries that directly integrate with CRM for seamless client engagement.
 
 **[cathyLoerzel.com](https://github.com/austinthaldorfhuelsbeck/website-builder-dashboard)**
 
 _React, TypeScript, Node.js, PostgreSQL_  
 
-> A blog and event calendar platform with a custom CMS, allowing the client to independently update and manage site content.
+> Responsive HTML/CSS/JS website with dynamic content updates through custom API using Node.js, Express, and PostgreSQL, catering to the requirements of the client.
+> React and TypeScript-based CMS enables the client to effortlessly manage blog and event content, as well as categories and topics, to dynamically influence site content.
+> Leverages styled components for customized aesthetics, Auth0 for secure authentication, axios for efficient data fetching, and quill.js for rich text editing.
 
 ## Technical Skills
 
